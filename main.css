@@ -46,7 +46,8 @@ a:active {
 }
 
 a:hover {
-	color: rgba(0, 180, 180, 1);
+	color: rgba(140, 82, 255, 1);
+	/* color: rgba(0, 180, 180, 1); */
 }
 
 img {
@@ -64,7 +65,8 @@ img {
 	top: 0;
 	left: 0;
 	width: 100%;
-	background-color: rgba(0, 180, 180, 1);
+	color: rgba(140, 82, 255, 1);
+	/* color: rgba(0, 180, 180, 1); */
 	box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4);
 }
 
@@ -86,7 +88,8 @@ img {
 }
 
 .nav-list a:hover {
-	color: rgba(0, 180, 180, 1);;
+	color: rgba(140, 82, 255, 1);
+	/* color: rgba(0, 180, 180, 1); */
 	background-color: #232931;
 }
 
@@ -104,7 +107,8 @@ img {
 
 .welcome-p {
 	
-	color: rgba(0, 180, 180, 1);;
+	color: rgba(140, 82, 255, 1);
+	/* color: rgba(0, 180, 180, 1); */;
 	font-size: 2rem;
 	font-style: italic;
 	padding-top: 0.5rem;
@@ -172,7 +176,8 @@ img {
 .arrow a:link,
 .arrow a:visited,
 .arrow a:active {
-	color: rgba(0, 180, 180, 1);
+	color: rgba(140, 82, 255, 1);
+	/* color: rgba(0, 180, 180, 1); */
 }
 
 /* Projects Section */
@@ -206,7 +211,8 @@ img {
 
 .project-tile:hover .project-image, .project-tile:hover .project-name {
 	box-shadow: 0 0 3px 1px black;
-	background-color: rgba(0, 180, 180, 1);
+	background-color: rgba(140, 82, 255, 1);
+	/* background-color: rgba(0, 180, 180, 1); */
 }
 
 .project-tile:hover .project-name {
@@ -245,7 +251,8 @@ img {
 
 .social {
 	text-align: center;
-	color: rgba(0, 180, 180, 1);
+	color: rgba(140, 82, 255, 1);
+	/* color: rgba(0, 180, 180, 1); */
 	font-size: 1.5rem;
 	font-style: italic;
 	padding-top: 0.5rem;
@@ -265,7 +272,8 @@ img {
 }
 
 .contact-flex a:hover {
-	color: rgba(0, 180, 180, 1);;
+	color: rgba(140, 82, 255, 1);
+	/* color: rgba(0, 180, 180, 1); */
 }
 
 .icon-links {
@@ -290,7 +298,8 @@ img {
 
 .form-title {
 	text-align: center;
-	color: rgba(0, 180, 180, 1);;
+	color: rgba(140, 82, 255, 1);
+	/* color: rgba(0, 180, 180, 1); */;
 	font-size: 1.6rem;
 	font-style: italic;
 	margin-bottom: 30px;
@@ -345,7 +354,8 @@ textarea {
 button {
 	padding: 19px 39px 18px 39px;
 	color: #eeeeee;
-	background-color: rgba(0, 180, 180, 1);
+	background-color: rgba(140, 82, 255, 1);
+	/* background-color: rgba(0, 180, 180, 1); */
 	font-size: 1.3rem;
 	text-align: center;
 	font-style: normal;
@@ -384,7 +394,8 @@ footer a:active {
 }
 
 footer a:hover {
-	color: rgba(0, 180, 180, 1);
+	color: rgba(140, 82, 255, 1);
+	/* color: rgba(0, 180, 180, 1); */
 }
 
 .my-links {
@@ -522,7 +533,8 @@ footer p {
 	}
 
 	.contact-flex a:hover {
-		color: rgba(0, 180, 180, 1);
+		color: rgba(140, 82, 255, 1);
+		/* color: rgba(0, 180, 180, 1); */
 	}
 
 	.form-title {
